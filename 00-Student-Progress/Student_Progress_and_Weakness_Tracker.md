@@ -67,7 +67,7 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 
 | Session # | Date | Subject & Topic | Diagnostic Score | Key Mistakes & Weaknesses Found | Teacher's Remediation & Homework |
 | :---: | :---: | :--- | :---: | :--- | :--- |
-| **#01** | *Today* | **KMAT Diagnostic: Quant, Reasoning & Verbal Baseline** | *Pending* | Setting initial baseline today | Run 5-question diagnostic; score & plan |
+| **#01** | *10-Sep-2026* | **Arithmetic & Number Patterns Diagnostic** | Baseline Established | 1. Tended to concatenate digits (e.g. '12' + '1' = 121) rather than adding numerical values.<br>2. Cleared the definition of "Double" ($X + X$) and sequential addition ($+1$). | Grounded arithmetic in real-world rupee/object counting. Student successfully solved $14 + 1 = 15$. Next session: simple KMAT pattern recognition. |
 
 ---
 
