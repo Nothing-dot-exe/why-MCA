@@ -110,3 +110,4 @@ while (count <= 3) {
 | **Q4** | `marks = 65; if (marks >= 40)` Pass check | A) YES<br>B) NO | **A** | **A (YES)** | `if` condition evaluates to True ($65 \ge 40$). |
 | **Q5** | `temp = 15; if (temp >= 30) HOT else COLD` | A) HOT<br>B) COLD | **B** | **B (COLD)** | `else` runs when condition is False ($15 < 30$). |
 | **Q6** | `count = 1; while (count <= 3)` print count | A) 1 time<br>B) 3 times<br>C) 10 times | **B** | **B (3 times)** | `count = count + 1` advances step until $4 \le 3$ fails. |
+| **Q7** | `count = 1; while (count <= 2)` print count | A) 1 time<br>B) 2 times<br>C) 5 times | **B** | **B (2 times)** | `count` runs for 1 and 2, stops when `count = 3` ($3 \le 2$ False). |
