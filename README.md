@@ -22,6 +22,7 @@
 ```
 
 ### ⚡ Quick Jumps:
+- 📊 **[Student Progress & Weakness Tracker](00-Student-Progress/Student_Progress_and_Weakness_Tracker.md)** *(Live Lecture Logs & Weakness Diagnostic)*
 - 🚀 **[Start Here: 2-Year DevSecOps Master Plan](#-track-1-the-2-year-self-reliant-devsecops-career-engine)**
 - 📺 **[Best YouTube Channels (Hindi & English)](#-track-2-youtube-university-hindi--english)**
 - 🎓 **[BKIT Bhalki Syllabus & College Roadmap](#-track-3-bkit-bhalki--vtu-degree-master-track)**
