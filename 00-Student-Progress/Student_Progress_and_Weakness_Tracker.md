@@ -100,5 +100,5 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 ## 🚀 5. Next Steps
 - [x] **Step 1:** Take the **5-Question Diagnostic Assessment** (Completed with 5/5 score!).
 - [x] **Step 2:** Graded answers, validated baseline mastery, and logged in Master Competency Matrix.
-- [ ] **Step 3:** Commit and push the updated scorecard to GitHub.
+- [x] **Step 3:** Committed and pushed updated scorecard to GitHub repository.
 - [ ] **Step 4:** Advance to Level 2 drills (2-step letter shift, 20% & 5% shortcuts, Direction Sense).
