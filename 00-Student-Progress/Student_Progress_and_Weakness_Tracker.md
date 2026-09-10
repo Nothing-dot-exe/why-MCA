@@ -33,19 +33,19 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 
 | Subject / Topic | Current Status | Last Tested | Common Traps & Identified Weaknesses | Action Plan / Remediation |
 | :--- | :---: | :---: | :--- | :--- |
-| **Quant: Percentages & Fractions** | 🟡 Pending Test | — | Converting fractions (1/6, 1/7, 1/8) to % quickly | Learn reciprocal fraction table (1/2 to 1/12) |
+| **Quant: Percentages & Fractions** | 🟢 Mastered Baseline | 10-Sep-2026 | Fast zero-drop rule understood | Progress to 20% and 5% derivations |
 | **Quant: Profit, Loss & Discount** | 🟡 Pending Test | — | Cost Price vs Selling Price base confusion | Master CP = 100% baseline shortcut |
 | **Quant: Ratio, Proportion & Mixtures** | 🟡 Pending Test | — | Alligation rule applications | Practice cross-ratio method |
 | **Quant: Speed, Distance & Time** | 🟡 Pending Test | — | Relative speed (trains moving towards/away) | Relative speed formula drills |
 | **Quant: Time, Work & Pipes** | 🟡 Pending Test | — | LCM method vs traditional fraction method | Enforce unitary LCM capacity method |
 | **Quant: Simple & Compound Interest** | 🟡 Pending Test | — | Formula complexity for 2 vs 3 years | Use difference formula: $D_2 = P(R/100)^2$ |
 | **Quant: Basic Algebra & Number System** | 🟡 Pending Test | — | Divisibility rules, unit digits, LCM/HCF | Shortcut table review |
-| **Reasoning: Number & Alphabet Series** | 🟡 Pending Test | — | Double differences, square/cube offsets | Learn EJOTY letter positioning |
-| **Reasoning: Coding & Decoding** | 🟡 Pending Test | — | Reverse alphabets ($A \leftrightarrow Z, B \leftrightarrow Y$) | Master pairing mnemonic (AZ, BY, CX, DW...) |
-| **Reasoning: Blood Relations** | 🟡 Pending Test | — | Generational tree mapping | Use $+/-$ tree diagrams |
+| **Reasoning: Number & Alphabet Series** | 🟢 Mastered Baseline | 10-Sep-2026 | Linear +3 sequence solved correctly | Introduce variable step (+2, +4, +6) |
+| **Reasoning: Coding & Decoding** | 🟢 Mastered Baseline | 10-Sep-2026 | +1 letter shift solved correctly | Advance to +2 and reverse patterns |
+| **Reasoning: Blood Relations** | 🟢 Mastered Baseline | 10-Sep-2026 | Direct relationship mapped cleanly | Advance to 2-step indirect trees |
 | **Reasoning: Direction & Distance Sense** | 🟡 Pending Test | — | Left/Right orientation after multiple turns | Cardinal compass drawing technique |
 | **Reasoning: Syllogisms & Venn Diagrams** | 🟡 Pending Test | — | "Some not" and "All" edge cases | 2-circle Venn diagram rules |
-| **Verbal: Vocabulary & Synonyms/Antonyms** | 🟡 Pending Test | — | Word elimination by prefix/root words | Root word flashcards |
+| **Verbal: Vocabulary & Synonyms/Antonyms** | 🟢 Mastered Baseline | 10-Sep-2026 | Antonym concept (Create/Destroy) solid | Practice high-frequency KMAT vocab list |
 | **Verbal: Sentence Correction & Grammar** | 🟡 Pending Test | — | Subject-verb agreement, pronoun cases | Top 10 golden grammar rules |
 | **Verbal: Reading Comprehension** | 🟡 Pending Test | — | Time management during long passages | Skim questions first, then scan passage |
 
@@ -68,6 +68,7 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 | Session # | Date | Subject & Topic | Diagnostic Score | Key Mistakes & Weaknesses Found | Teacher's Remediation & Homework |
 | :---: | :---: | :--- | :---: | :--- | :--- |
 | **#01** | *10-Sep-2026* | **Arithmetic & Number Patterns Diagnostic** | Baseline Established | 1. Tended to concatenate digits (e.g. '12' + '1' = 121) rather than adding numerical values.<br>2. Cleared the definition of "Double" ($X + X$) and sequential addition ($+1$). | Grounded arithmetic in real-world rupee/object counting. Student successfully solved $14 + 1 = 15$. Next session: simple KMAT pattern recognition. |
+| **#02** | *10-Sep-2026* | **KMAT 5-Question Master Diagnostic (Series, Coding, Quant, Family, Verbal)** | **5 / 5 (100% Perfect)** | Zero errors. Rapidly grasped +1 letter shift (`PEN` $\to$ `QFO`), +3 arithmetic series ($12 \to 15$), zero-drop percentage rule ($10\%$ of $300 = 30$), father's brother relation (Uncle), and direct antonyms (`CREATE` $\to$ `DESTROY`). | Logged perfect 5/5 score. Ready to level up to 2-step shifts, direction sense, and percent doubling. |
 
 ---
 
@@ -97,6 +98,7 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 ---
 
 ## 🚀 5. Next Steps
-1. Take the **5-Question Diagnostic Assessment** now.
-2. I will grade your answers, pinpoint exact calculation or conceptual weak points, and log them in this matrix.
-3. Commit and push the updated scorecard to GitHub.
+- [x] **Step 1:** Take the **5-Question Diagnostic Assessment** (Completed with 5/5 score!).
+- [x] **Step 2:** Graded answers, validated baseline mastery, and logged in Master Competency Matrix.
+- [ ] **Step 3:** Commit and push the updated scorecard to GitHub.
+- [ ] **Step 4:** Advance to Level 2 drills (2-step letter shift, 20% & 5% shortcuts, Direction Sense).
