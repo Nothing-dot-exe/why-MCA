@@ -55,7 +55,7 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 
 | Core Course | Status | Key Focus Areas | Priority |
 | :--- | :---: | :--- | :---: |
-| **C Programming & Problem Solving** | 🟡 Scheduled | Pointers, Memory Allocation, Recursion, Arrays | High |
+| **C Programming & Problem Solving** | 🟢 Baseline Mastered | Variables (`int`), Operators (`+`, `*`), Conditional Logic (`if`) | High |
 | **Discrete Mathematical Structures** | 🟡 Scheduled | Set Theory, Propositional Logic, Graph Theory | High |
 | **Web Technologies** | 🟡 Scheduled | HTML5 Semantic layout, CSS Grid/Flexbox, JS ES6+ | High |
 | **Operating Systems & Linux Shell** | 🟡 Scheduled | Bash scripting, Process Scheduling, Deadlocks | Medium |
@@ -69,6 +69,7 @@ This document is the **living log of your MCA journey**. Every lesson we complet
 | :---: | :---: | :--- | :---: | :--- | :--- |
 | **#01** | *10-Sep-2026* | **Arithmetic & Number Patterns Diagnostic** | Baseline Established | 1. Tended to concatenate digits (e.g. '12' + '1' = 121) rather than adding numerical values.<br>2. Cleared the definition of "Double" ($X + X$) and sequential addition ($+1$). | Grounded arithmetic in real-world rupee/object counting. Student successfully solved $14 + 1 = 15$. Next session: simple KMAT pattern recognition. |
 | **#02** | *10-Sep-2026* | **KMAT 5-Question Master Diagnostic (Series, Coding, Quant, Family, Verbal)** | **5 / 5 (100% Perfect)** | Zero errors. Rapidly grasped +1 letter shift (`PEN` $\to$ `QFO`), +3 arithmetic series ($12 \to 15$), zero-drop percentage rule ($10\%$ of $300 = 30$), father's brother relation (Uncle), and direct antonyms (`CREATE` $\to$ `DESTROY`). | Logged perfect 5/5 score. Ready to level up to 2-step shifts, direction sense, and percent doubling. |
+| **#03** | *10-Sep-2026* | **C Programming: Zero to First Code (Variables, Math, Decisions)** | **3 / 3 (100% Perfect)** | Initial hesitation on C programming syntax. Demystified `int` as Integer numbers, `=` as storage operator, `*` for multiplication, and `if()` condition checking. | Solved addition ($4+6=10$), multiplication ($4 \times 5 = 20$), and conditional logic ($65 \ge 40$). Next: loops (`for` / `while`) and `else` blocks. |
 
 ---
 
