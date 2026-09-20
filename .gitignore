@@ -1,0 +1,7 @@
+# VS Code
+.vscode/
+
+# OS and Temp Files
+Thumbs.db
+Desktop.ini
+*.tmp

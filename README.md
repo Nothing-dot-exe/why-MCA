@@ -1,6 +1,7 @@
-# 🧠 AI Knowledge Base — Master Command Center
+# 🧠 AI Knowledge Base & VTU MCA Master Command Center
+### Tailored for BKIT College, Bhalki | Visvesvaraya Technological University (VTU)
 
-> **Student Profile:** MCA Candidate at BKIT Bhalki (VTU Code: `3BK`) • Batch: 2026–2028  
+> **Student Profile:** MCA Candidate at BKIT Bhalki (VTU Code: `3RB` / `1RB`) • Batch: 2026–2028  
 > **Starting Baseline:** Non-Coder (Day 0) • Weak in Mathematics  
 > **Career Target:** **DevSecOps Cloud Engineer / Cloud Security Architect (₹18L – ₹22L+)**  
 > **Core Architecture:** 100% Independent Self-Study Engine + VTU Academic Shield (8.5+ CGPA)  
@@ -11,24 +12,65 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   THE 5-TRACK MASTER KNOWLEDGE MAP                                     │
+│                                   THE 6-TRACK MASTER KNOWLEDGE MAP                                     │
 ├──────────────────────────────────┬─────────────────────────────────────────────────────────────────────┤
-│ 🚀 1. DEVSECOPS CAREER ENGINE     │ Your 24-Month Roadmap, Daily 5-Hr Routine, Non-Math Logic & Skills  │
-│ 🎓 2. BKIT BHALKI & VTU DEGREE    │ 4-Semester Syllabus, Subject Schemes, SWOT Strategy & Scoring Rules │
-│ 📝 3. 10 VTU QUESTION BANKS & ANS │ Full Module-by-Module Answers, Code, Numericals & 11 PDF Booklets   │
-│ 📺 4. YOUTUBE UNIVERSITY HUB     │ Curated Channels (Hindi & English) for Coding, OS, Cloud & Cyber    │
-│ 📚 5. 39 FREE DOWNLOADED TEXTBOOKS│ Complete Offline Library (C, Python, Java, DSA, OS, Linux, Git)    │
+│ 📖 1. SEMESTER 1 MASTER NOTES     │ Complete Notes, Formulas, Code, Numericals & YouTube Study Links    │
+│ 📂 2. VTU MCA STUDY VAULTS        │ 17 Official Solved Exam Papers, Syllabi, Regulations & Textbooks   │
+│ 🚀 3. DEVSECOPS CAREER ENGINE     │ Your 24-Month Roadmap, Daily 5-Hr Routine, Non-Math Logic & Skills  │
+│ 🎓 4. BKIT BHALKI & VTU DEGREE    │ 4-Semester Syllabus, Subject Schemes, SWOT Strategy & Scoring Rules │
+│ 📝 5. 10 VTU QUESTION BANKS & ANS │ Full Module-by-Module Answers, Code, Numericals & 11 PDF Booklets   │
+│ 📚 6. 39 FREE DOWNLOADED TEXTBOOKS│ Complete Offline Library (C, Python, Java, DSA, OS, Linux, Git)    │
 └──────────────────────────────────┴─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### ⚡ Quick Jumps:
-- 📊 **[Student Progress & Weakness Tracker](00-Student-Progress/Student_Progress_and_Weakness_Tracker.md)** *(Live Lecture Logs & Weakness Diagnostic)*
-- 🚀 **[Start Here: 2-Year DevSecOps Master Plan](#-track-1-the-2-year-self-reliant-devsecops-career-engine)**
-- 📺 **[Best YouTube Channels (Hindi & English)](#-track-2-youtube-university-hindi--english)**
-- 🎓 **[BKIT Bhalki Syllabus & College Roadmap](#-track-3-bkit-bhalki--vtu-degree-master-track)**
+- 📖 **[Semester 1 Master Notes](Semester_1_Master_Notes/README.md)** *(Full notes for Maths, OS, DSA, Networks, DAA)*
+- 🎬 **[Semester 1 YouTube Study Links](Semester_1_Master_Notes/Semester_1_YouTube_Study_Links.md)** *(Direct YouTube playlists)*
+- 📂 **[VTU MCA Exam Vault](VTU_MCA_Exam_Vault/README.md)** *(17 Solved Exam Papers with 100-Mark Solutions)*
+- 📋 **[VTU MCA Official Syllabus Archive](VTU_MCA_Syllabus/VTU_Official_PG_Scheme_Syllabus_Index.md)**
+- 📊 **[Student Progress & Weakness Tracker](00-Student-Progress/Student_Progress_and_Weakness_Tracker.md)**
+- 🚀 **[Start Here: 2-Year DevSecOps Master Plan](#-track-2-the-2-year-self-reliant-devsecops-career-engine)**
 - 📝 **[10 VTU Question Banks with Answer Keys](#-track-4-vtu-mca-question-banks-with-complete-answer-keys)**
 - 📚 **[39 Free Offline Downloaded Textbooks](#-track-5-39-free-downloaded-textbooks--notes-library)**
-- 🌐 **[Global AI Technology & Industry Reference](#-track-6-global-ai-industry--technology-reference)**
+
+---
+
+## 📁 TRACK 1: VTU MCA Master Study Workspace & Vaults
+
+Everything is organized, verified, and cross-referenced into dedicated directories:
+
+### 1. 📂 [Semester 1 Master Notes (`Semester_1_Master_Notes/`)](Semester_1_Master_Notes/README.md)
+* 📐 **[22MCA11: Mathematical Foundations Complete Notes](Semester_1_Master_Notes/01_Mathematical_Foundations_22MCA11_Complete_Notes.md)**
+* 💻 **[22MCA12: Operating Systems Concepts Complete Notes](Semester_1_Master_Notes/02_Operating_Systems_22MCA12_Complete_Notes.md)**
+* 🌲 **[22MCA13: Data Structures with Algorithms Complete Notes](Semester_1_Master_Notes/03_Data_Structures_Algorithms_22MCA13_Complete_Notes.md)**
+* 🌐 **[22MCA14: Computer Networks Complete Notes](Semester_1_Master_Notes/04_Computer_Networks_22MCA14_Complete_Notes.md)**
+* ⚡ **[22MCA15: Design & Analysis of Algorithms Complete Notes](Semester_1_Master_Notes/05_Design_Analysis_Algorithms_22MCA15_Complete_Notes.md)**
+* 🎬 **[Semester 1 YouTube Study Playlists & Channels](Semester_1_Master_Notes/Semester_1_YouTube_Study_Links.md)**
+
+### 2. 📂 [VTU MCA Exam Vault (`VTU_MCA_Exam_Vault/`)](VTU_MCA_Exam_Vault/README.md)
+Houses **17 official exam question papers, institutional professor-solved papers, and full 100-mark step-by-step solved PDFs**:
+* **Semester 1:** Mathematical Foundations (`22MCA11`), Operating Systems (`22MCA12`), Data Structures (`22MCA13`), Computer Networks (`22MCA14`), DAA (`22MCA15`).
+* **Semester 2:** DBMS (`22MCA21`), Java OOP (`22MCA22`), Software Engineering & Agile (`22MCA23`), Web Technologies (`22MCA24`), Cloud Computing (`22MCA25`).
+* **Semester 3:** Data Analytics & ML (`22MCA31`), IoT & Cloud (`22MCA32`), Cybersecurity & DevSecOps (`22MCA33`), Big Data Analytics (`22MCA34`).
+* **Semester 4:** Major Project & Viva-Voce Master Guide (`22MCA41`), Big Data (`22MCA412`), Game Design (`22MCA423`).
+
+### 3. 📂 [VTU MCA Official Syllabus Archive (`VTU_MCA_Syllabus/`)](VTU_MCA_Syllabus/README.md)
+* 📋 **[Master PG Scheme Syllabus Index](VTU_MCA_Syllabus/VTU_Official_PG_Scheme_Syllabus_Index.md)**
+* 📄 **VTU MCA 1st to 4th Sem Complete Scheme 2024** (80 Credits NEP/NCrF)
+* 📄 **VTU MCA 1st & 2nd Sem Syllabus 2022 Scheme** (100 Credits CBCS)
+* 📂 **Semester 3 Professional Electives (8 Syllabi)** — GenAI, Ethical Hacking, Full-Stack Web, Networks, IoT, Cloud.
+
+### 4. 📂 [VTU MCA Regulations Archive (`VTU_MCA_Regulations/`)](VTU_MCA_Regulations/README.md)
+* 📄 **VTU Official Examination Manual 2024 PDF**
+* 📄 **2024–2025 Regulations PDF (80-Credit Scheme)**
+* 📄 **2022 Scheme Regulations PDF (100-Credit Scheme)**
+
+### 5. 📂 [VTU MCA Job-Ready Master Vault (`VTU_MCA_Job_Ready_Vault/`)](VTU_MCA_Job_Ready_Vault/README.md)
+* 💻 **01. DSA & Coding Interviews**: 14 Coding Patterns, Blind 75 Tracker, Complexity Cheat Sheet.
+* 🌐 **02. Full-Stack & System Design**: Modern Architecture Notes, System Design Playbook, Enterprise SaaS Capstone.
+* ☁️ **03. Cloud & DevOps Engineering**: Linux Toolchain, GitHub Actions CI/CD Blueprints, GitOps EKS Capstone.
+* 🛡️ **04. Cyber Security & DevSecOps**: OWASP Top 10, DevSecOps Security Gate Kit, Zero-Trust Gateway Capstone.
+* 🎯 **05. Career & Interview Mastery**: ATS Resume Templates, Top 100 Technical Q&A, STAR Method Behavioral Kit.
 
 ---
 
@@ -38,13 +80,13 @@
 |---|---|---|
 | **"I have never coded in my life"** | Start Phase 0: Install VS Code, learn 7 terminal commands, write first Python script | 📖 [Guide 21: Master Plan](04-Career-Guide/21_Two_Year_Self_Reliant_MCA_Master_Plan.md) <br> 📺 [Guide 22: CodeWithHarry / Bro Code](04-Career-Guide/22_Best_YouTube_Channels_Hindi_and_English.md) |
 | **"I am weak in math and terrified"** | Read the 4 mental models (Boolean, Sets, Graphs, Modulo). No calculus needed! | 📖 [Guide 14: Math for AI & CS](04-Career-Guide/14_Math_for_AI_Weak_Students.md) <br> 📝 [QB 04: Math Foundations](05-Question-Banks/04_Math_Foundations_QB_with_Answers.md) |
-| **"College internals (CIE) or exams in 10 days"** | Memorize previous-year recurring questions and diagrams for full 8.5+ CGPA | 📝 [05-Question-Banks README](05-Question-Banks/README.md) <br> 🖨️ [Download Printable PDF Booklets](#-track-4-vtu-mca-question-banks-with-complete-answer-keys) |
+| **"College internals (CIE) or exams in 10 days"** | Review Semester 1 Master Notes and practice previous-year recurring questions | 📖 [Semester 1 Master Notes](Semester_1_Master_Notes/README.md) <br> 📝 [VTU Solved Papers](VTU_MCA_Exam_Vault/README.md) |
 | **"I want to understand my BKIT Bhalki college"** | Read campus SWOT analysis, cost advantages, and 4-Semester VTU subject scheme | 🏛️ [Guide 19: BKIT Success Roadmap](04-Career-Guide/19_BKIT_Bhalki_MCA_Success_Roadmap.md) <br> 📋 [Guide 20: Official BKIT MCA Syllabus](04-Career-Guide/20_BKIT_Bhalki_MCA_Syllabus.md) |
 | **"I want to launch my first cloud server"** | Follow the AWS Free Tier setup guide, launch Ubuntu EC2, and configure Nginx | ☁️ [Guide 15: Cloud+Cyber+DevOps](04-Career-Guide/15_Cloud_Cyber_DevOps_Roadmap.md) <br> 🚀 [Guide 21: Month 5 Cloud Step](04-Career-Guide/21_Two_Year_Self_Reliant_MCA_Master_Plan.md) |
 
 ---
 
-## 🚀 TRACK 1: The 2-Year Self-Reliant DevSecOps Career Engine
+## 🚀 TRACK 2: The 2-Year Self-Reliant DevSecOps Career Engine
 
 *Designed specifically for independent students who do not want to depend on college lectures for placement.*
 
@@ -58,7 +100,7 @@
 
 ---
 
-## 📺 TRACK 2: YouTube University (Hindi & English)
+## 📺 TRACK 3: YouTube University (Hindi & English)
 
 *Curated video learning tracks paired directly with your 2-year plan.*
 
@@ -68,21 +110,21 @@
 
 ---
 
-## 🎓 TRACK 3: BKIT Bhalki & VTU Degree Master Track
+## 🎓 TRACK 4: BKIT Bhalki & VTU Degree Master Track
 
 *Everything related to your physical college campus, university examinations, and semester schemes.*
 
 | # | Master Guide | Purpose & Key Details | File Link | Printable PDF |
 |:---:|---|---|:---:|:---:|
-| **19** | **BKIT Bhalki MCA Success Roadmap** | Campus history (Est. 1982), VTU code `3BK`, SWOT analysis, cost of living advantages, and 4-Semester strategy. | [Open Guide](04-Career-Guide/19_BKIT_Bhalki_MCA_Success_Roadmap.md) | [PDF (190 KB)](📚%20FREE%20BOOKS/Question-Banks-PDFs/19_BKIT_Bhalki_MCA_Success_Roadmap.pdf) |
-| **20** | **BKIT Bhalki MCA Full Syllabus (NEP/2024 Scheme)** | Complete 4-Semester subject scheme, course codes (24MCA11 to 24MCA42), credits, and recommended DevSecOps electives. | [Open Guide](04-Career-Guide/20_BKIT_Bhalki_MCA_Syllabus.md) | [PDF (248 KB)](📚%20FREE%20BOOKS/Question-Banks-PDFs/20_BKIT_Bhalki_MCA_Syllabus.pdf) |
+| **19** | **BKIT Bhalki MCA Success Roadmap** | Campus history (Est. 1982), VTU code `3RB`/`3BK`, SWOT analysis, cost of living advantages, and 4-Semester strategy. | [Open Guide](04-Career-Guide/19_BKIT_Bhalki_MCA_Success_Roadmap.md) | [PDF (190 KB)](📚%20FREE%20BOOKS/Question-Banks-PDFs/19_BKIT_Bhalki_MCA_Success_Roadmap.pdf) |
+| **20** | **BKIT Bhalki MCA Full Syllabus (NEP/2024 Scheme)** | Complete 4-Semester subject scheme, course codes, credits, and recommended DevSecOps electives. | [Open Guide](04-Career-Guide/20_BKIT_Bhalki_MCA_Syllabus.md) | [PDF (248 KB)](📚%20FREE%20BOOKS/Question-Banks-PDFs/20_BKIT_Bhalki_MCA_Syllabus.pdf) |
 | **17** | **VTU MCA Complete Degree Guide** | VTU regional centers, eligibility criteria, PGCET/KMAT admissions, CIE/SEE grading formula, and passing standards. | [Open Guide](04-Career-Guide/17_VTU_MCA_Complete_Guide.md) | — |
 | **18** | **VTU MCA Free Books & Resources Directory** | 38+ verified links to free university slides, CS50x Harvard, MIT OpenCourseWare, and free development tools. | [Open Guide](04-Career-Guide/18_VTU_MCA_Free_Books_and_Resources.md) | — |
 | **23** | **KMAT Karnataka MCA Crash Course & Cheat Sheet** | High-yield shortcuts for Non-Math students, EJOTY codes, 10 practice Qs, and 120-minute time management. | [Open Guide](04-Career-Guide/23_KMAT_Karnataka_MCA_Crash_Course_and_Cheat_Sheet.md) | [PDF (855 KB)](📚%20FREE%20BOOKS/Question-Banks-PDFs/23_KMAT_Karnataka_MCA_Crash_Course_and_Cheat_Sheet.pdf) |
 
 ---
 
-## 📝 TRACK 4: VTU MCA Question Banks (With Complete Answer Keys)
+## 📝 TRACK 5: VTU MCA Question Banks (With Complete Answer Keys)
 
 *Module-by-module theory, diagrams, and numerical solutions tailored for VTU semester exams.*
 
@@ -102,9 +144,9 @@
 
 ---
 
-## 📚 TRACK 5: 39 Free Downloaded Textbooks & Notes Library
+## 📚 TRACK 6: 39 Free Downloaded Textbooks & Notes Library
 
-*Saved locally in `📚 FREE BOOKS/` for offline reading on your laptop or phone.*
+*Saved locally in `📚 FREE BOOKS/` and `VTU_MCA_Textbooks/` for offline reading on your laptop or phone.*
 
 ### 🛠️ DevOps, Cloud & Linux Administration:
 - 📖 [Linux Notes for Professionals (PDF)](📚%20FREE%20BOOKS/DevOps-Cloud-Cyber/Linux_Notes_for_Professionals.pdf) — Complete command line reference
@@ -136,30 +178,6 @@
 
 ---
 
-## 🌐 TRACK 6: Global AI Industry & Technology Reference
-
-*High-level strategic reference chapters to understand the modern AI ecosystem.*
-
-### 🏢 01-AI-Companies:
-- [01_Global_Tech_Companies.md](01-AI-Companies/01_Global_Tech_Companies.md) — Worldwide tech landscape
-- [02_AI_Companies_and_Funding.md](01-AI-Companies/02_AI_Companies_and_Funding.md) — Who builds frontier AI and who funds them
-- [03_AI_Ecosystem_Dependencies.md](01-AI-Companies/03_AI_Ecosystem_Dependencies.md) — From beach sand to ASML, TSMC, NVIDIA & Azure
-
-### 💼 02-AI-Jobs:
-- [04_AI_Replaceable_Jobs.md](02-AI-Jobs/04_AI_Replaceable_Jobs.md) — Why infrastructure and security engineers stay safe
-- [05_All_Job_Roles_in_AI.md](02-AI-Jobs/05_All_Job_Roles_in_AI.md) — Engineering, MLOps, security, and research roles
-- [06_Risky_Jobs_AI_Era.md](02-AI-Jobs/06_Risky_Jobs_AI_Era.md) — Vulnerable roles and how to pivot to DevSecOps
-
-### ⚙️ 03-AI-Technology:
-- [07_AI_Development_Stages.md](03-AI-Technology/07_AI_Development_Stages.md) — The 5 stages from ANI to Agentic AI and AGI
-- [08_Data_Centers_Global.md](03-AI-Technology/08_Data_Centers_Global.md) — Global hyperscale data centers and power consumption
-- [09_GPU_Lifespan_and_Count.md](03-AI-Technology/09_GPU_Lifespan_and_Count.md) — GPU hardware lifecycle, failure rates, and counts
-- [10_Who_Is_Winning_AI_Race.md](03-AI-Technology/10_Who_Is_Winning_AI_Race.md) — Model scoreboard: Google vs OpenAI vs Anthropic
-- [11_AI_Training_Data_Sources.md](03-AI-Technology/11_AI_Training_Data_Sources.md) — Synthetic data generation and human RLHF
-- [12_Why_AI_Training_Is_Costly.md](03-AI-Technology/12_Why_AI_Training_Is_Costly.md) — Why training frontier AI costs $100M+
-
----
-
 ## 🏆 Your Ultimate Career Target
 
 > ### 👑 Destination: DevSecOps Cloud Engineer
@@ -172,4 +190,4 @@
 
 ---
 
-> 💡 **Next Step:** Open **[21_Two_Year_Self_Reliant_MCA_Master_Plan.md](04-Career-Guide/21_Two_Year_Self_Reliant_MCA_Master_Plan.md)** and start **Phase 0 (Week 1)** today! 🚀
+> 💡 **Next Step:** Open **[Semester 1 Master Notes](Semester_1_Master_Notes/README.md)** or **[21_Two_Year_Self_Reliant_MCA_Master_Plan.md](04-Career-Guide/21_Two_Year_Self_Reliant_MCA_Master_Plan.md)** and start today! 🚀
