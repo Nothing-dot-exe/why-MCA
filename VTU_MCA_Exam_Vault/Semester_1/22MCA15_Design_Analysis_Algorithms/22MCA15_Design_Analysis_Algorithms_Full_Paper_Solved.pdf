@@ -1,0 +1,116 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 3 0 R 5 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >> >> >> >> >>
+endobj
+4 0 obj
+<< /Length 4193 >>
+stream
+BT
+/F2 10 Tf 40 800 Td (VTU MCA 22MCA15 - Design & Analysis of Algorithms  --  Page 1 of 2) Tj
+/F1 9 Tf 40 786 Td (===========================================================================) Tj
+b'/F1 8.5 Tf' 40 770 Td ( VTU MCA 2022/2024 Scheme - Design & Analysis of Algorithms \(22MCA15\)) Tj
+b'/F1 8.5 Tf' 40 756.5 Td ( Full Solved Examination Paper with Proofs & Recurrence Relations) Tj
+b'/F1 8.5 Tf' 40 743.0 Td (Time: 3 Hours | Max Marks: 100) Tj
+b'/F1 8.5 Tf' 40 729.5 Td () Tj
+b'/F1 8.5 Tf' 40 716.0 Td (================================================================================) Tj
+b'/F2 9.5 Tf' 40 702.5 Td (MODULE 1: ASYMPTOTIC NOTATION & DIVIDE-AND-CONQUER) Tj
+b'/F1 8.5 Tf' 40 689.0 Td (================================================================================) Tj
+b'/F1 8.5 Tf' 40 675.5 Td () Tj
+b'/F2 9.5 Tf' 40 662.0 Td (Q.1 \(a\) Define Big-O, Big-Omega, and Big-Theta asymptotic notations with mathematical) Tj
+b'/F1 8.5 Tf' 40 648.5 Td (     definitions and diagrams. [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 635.0 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 621.5 Td (1. Big-O \(O\) - Asymptotic Upper Bound \(Worst-Case\):) Tj
+b'/F1 8.5 Tf' 40 608.0 Td (   f\(n\) = O\(g\(n\)\) iff there exist positive constants c and n0 such that:) Tj
+b'/F1 8.5 Tf' 40 594.5 Td (   0 <= f\(n\) <= c  g\(n\) for all n >= n0.) Tj
+b'/F1 8.5 Tf' 40 581.0 Td (   Significance: Guarantees that algorithm runtime will not exceed c  g\(n\).) Tj
+b'/F1 8.5 Tf' 40 567.5 Td () Tj
+b'/F1 8.5 Tf' 40 554.0 Td (2. Big-Omega \(Omega\) - Asymptotic Lower Bound \(Best-Case\):) Tj
+b'/F1 8.5 Tf' 40 540.5 Td (   f\(n\) = Omega\(g\(n\)\) iff there exist positive constants c and n0 such that:) Tj
+b'/F1 8.5 Tf' 40 527.0 Td (   0 <= c  g\(n\) <= f\(n\) for all n >= n0.) Tj
+b'/F1 8.5 Tf' 40 513.5 Td (   Significance: Guarantees algorithm takes at least this much time.) Tj
+b'/F1 8.5 Tf' 40 500.0 Td () Tj
+b'/F1 8.5 Tf' 40 486.5 Td (3. Big-Theta \(Theta\) - Asymptotically Tight Bound \(Average-Case\):) Tj
+b'/F1 8.5 Tf' 40 473.0 Td (   f\(n\) = Theta\(g\(n\)\) iff there exist positive constants c1, c2 and n0 such that:) Tj
+b'/F1 8.5 Tf' 40 459.5 Td (   0 <= c1  g\(n\) <= f\(n\) <= c2  g\(n\) for all n >= n0.) Tj
+b'/F1 8.5 Tf' 40 446.0 Td () Tj
+b'/F2 9.5 Tf' 40 432.5 Td (--------------------------------------------------------------------------------) Tj
+b'/F2 9.5 Tf' 40 419.0 Td (Q.1 \(b\) Solve the recurrence relation for Merge Sort using Master Theorem:) Tj
+b'/F1 8.5 Tf' 40 405.5 Td (T\(n\) = 2T\(n/2\) + Theta\(n\). [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 392.0 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 378.5 Td (Master Theorem Form: T\(n\) = aT\(n/b\) + f\(n\)) Tj
+b'/F1 8.5 Tf' 40 365.0 Td (Here: a = 2, b = 2, f\(n\) = Theta\(n\) = Theta\(n^c\) where c = 1.) Tj
+b'/F1 8.5 Tf' 40 351.5 Td (Calculate log_b\(a\) = log_2\(2\) = 1.) Tj
+b'/F1 8.5 Tf' 40 338.0 Td (Compare c and log_b\(a\):) Tj
+b'/F1 8.5 Tf' 40 324.5 Td (c = 1 and log_b\(a\) = 1 => c = log_b\(a\).) Tj
+b'/F1 8.5 Tf' 40 311.0 Td (By Case 2 of Master Theorem:) Tj
+b'/F1 8.5 Tf' 40 297.5 Td (T\(n\) = Theta\(n^\(log_b\(a\)\)  log\(n\)\) = Theta\(n  log\(n\)\).) Tj
+b'/F1 8.5 Tf' 40 284.0 Td (Hence, Merge Sort has a time complexity of O\(n log n\) in all cases \(Best, Worst, Aver) Tj
+b'/F1 8.5 Tf' 40 270.5 Td (    age\).) Tj
+b'/F1 8.5 Tf' 40 257.0 Td () Tj
+b'/F1 8.5 Tf' 40 243.5 Td (================================================================================) Tj
+b'/F2 9.5 Tf' 40 230.0 Td (MODULE 2: DYNAMIC PROGRAMMING - 0/1 KNAPSACK) Tj
+b'/F1 8.5 Tf' 40 216.5 Td (================================================================================) Tj
+b'/F1 8.5 Tf' 40 203.0 Td () Tj
+b'/F2 9.5 Tf' 40 189.5 Td (Q.3 \(a\) Solve the 0/1 Knapsack problem using Dynamic Programming for capacity W = 5:) Tj
+b'/F1 8.5 Tf' 40 176.0 Td (Item | Weight | Value) Tj
+b'/F1 8.5 Tf' 40 162.5 Td (1    | 2      | 12) Tj
+b'/F1 8.5 Tf' 40 149.0 Td (2    | 1      | 10) Tj
+b'/F1 8.5 Tf' 40 135.5 Td (3    | 3      | 20) Tj
+b'/F1 8.5 Tf' 40 122.0 Td (4    | 2      | 15  [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 108.5 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 95.0 Td (DP Table DP[i][w] = Max profit considering items 1..i and capacity w:) Tj
+b'/F1 8.5 Tf' 40 81.5 Td (Formula:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >> >> >> >> >>
+endobj
+6 0 obj
+<< /Length 1611 >>
+stream
+BT
+/F2 10 Tf 40 800 Td (VTU MCA 22MCA15 - Design & Analysis of Algorithms  --  Page 2 of 2) Tj
+/F1 9 Tf 40 786 Td (===========================================================================) Tj
+b'/F1 8.5 Tf' 40 770 Td (If weight[i] > w: DP[i][w] = DP[i-1][w]) Tj
+b'/F1 8.5 Tf' 40 756.5 Td (Else: DP[i][w] = max\(DP[i-1][w], value[i] + DP[i-1][w - weight[i]]\)) Tj
+b'/F1 8.5 Tf' 40 743.0 Td () Tj
+b'/F1 8.5 Tf' 40 729.5 Td (DP Table:) Tj
+b'/F1 8.5 Tf' 40 716.0 Td (Item \(i\) \\ w |  0  |  1   |  2   |  3   |  4   |  5) Tj
+b'/F2 9.5 Tf' 40 702.5 Td (--------------------------------------------------) Tj
+b'/F1 8.5 Tf' 40 689.0 Td (0 \(No item\) |  0  |  0   |  0   |  0   |  0   |  0) Tj
+b'/F1 8.5 Tf' 40 675.5 Td (1 \(w=2, v=12\)| 0  |  0   |  12  |  12  |  12  |  12) Tj
+b'/F1 8.5 Tf' 40 662.0 Td (2 \(w=1, v=10\)| 0  |  10  |  12  |  22  |  22  |  22) Tj
+b'/F1 8.5 Tf' 40 648.5 Td (3 \(w=3, v=20\)| 0  |  10  |  12  |  22  |  30  |  32) Tj
+b'/F1 8.5 Tf' 40 635.0 Td (4 \(w=2, v=15\)| 0  |  10  |  15  |  25  |  30  |  37) Tj
+b'/F1 8.5 Tf' 40 621.5 Td () Tj
+b'/F1 8.5 Tf' 40 608.0 Td (Maximum Profit: DP[4][5] = 37.) Tj
+b'/F1 8.5 Tf' 40 594.5 Td (Items selected by backtracking:) Tj
+b'/F1 8.5 Tf' 40 581.0 Td (- Item 4 \(w=2, v=15\) included => remaining capacity = 5 - 2 = 3.) Tj
+b'/F1 8.5 Tf' 40 567.5 Td (- Item 2 \(w=1, v=10\) included => remaining capacity = 3 - 1 = 2.) Tj
+b'/F1 8.5 Tf' 40 554.0 Td (- Item 1 \(w=2, v=12\) included => remaining capacity = 2 - 2 = 0.) Tj
+b'/F1 8.5 Tf' 40 540.5 Td (Total Value = 15 + 10 + 12 = 37 \(Weight = 2 + 1 + 2 = 5 <= W\).) Tj
+b'/F1 8.5 Tf' 40 527.0 Td () Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000367 00000 n 
+0000004612 00000 n 
+0000004856 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+6519
+%%EOF

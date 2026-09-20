@@ -1,0 +1,192 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 3 0 R 5 0 R 7 0 R ] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >> >> >> >> >>
+endobj
+4 0 obj
+<< /Length 4322 >>
+stream
+BT
+/F2 10 Tf 40 800 Td (VTU MCA 22MCA12 - Operating System Concepts & UNIX  --  Page 1 of 3) Tj
+/F1 9 Tf 40 786 Td (===========================================================================) Tj
+b'/F1 8.5 Tf' 40 770 Td ( VTU MCA 2022/2024 Scheme - Operating Systems \(22MCA12\)) Tj
+b'/F1 8.5 Tf' 40 756.5 Td ( Full 100-Mark Solved Examination Paper with Step-by-Step Solutions) Tj
+b'/F1 8.5 Tf' 40 743.0 Td (Time: 3 Hours | Max Marks: 100) Tj
+b'/F1 8.5 Tf' 40 729.5 Td () Tj
+b'/F1 8.5 Tf' 40 716.0 Td (================================================================================) Tj
+b'/F2 9.5 Tf' 40 702.5 Td (MODULE 1: OPERATING SYSTEM STRUCTURES & PROCESS MANAGEMENT) Tj
+b'/F1 8.5 Tf' 40 689.0 Td (================================================================================) Tj
+b'/F1 8.5 Tf' 40 675.5 Td () Tj
+b'/F2 9.5 Tf' 40 662.0 Td (Q.1 \(a\) Explain Operating System Services and Dual-Mode Operation \(User Mode vs Kerne) Tj
+b'/F1 8.5 Tf' 40 648.5 Td (    l Mode\). [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 635.0 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 621.5 Td (Operating System Services:) Tj
+b'/F1 8.5 Tf' 40 608.0 Td (1. Program Execution: Loads program into memory, runs it, and handles normal/abnormal) Tj
+b'/F1 8.5 Tf' 40 594.5 Td (     termination.) Tj
+b'/F1 8.5 Tf' 40 581.0 Td (2. I/O Operations: Provides an abstraction layer so applications do not interact with) Tj
+b'/F1 8.5 Tf' 40 567.5 Td (     raw hardware drivers directly.) Tj
+b'/F1 8.5 Tf' 40 554.0 Td (3. File System Manipulation: Reading, writing, creating, deleting, and managing direc) Tj
+b'/F1 8.5 Tf' 40 540.5 Td (    tory permissions.) Tj
+b'/F1 8.5 Tf' 40 527.0 Td (4. Communications: Inter-process communication \(IPC\) via shared memory or message pas) Tj
+b'/F1 8.5 Tf' 40 513.5 Td (    sing.) Tj
+b'/F1 8.5 Tf' 40 500.0 Td (5. Error Detection & Handling: Handling CPU/memory errors, division by zero, network ) Tj
+b'/F1 8.5 Tf' 40 486.5 Td (    drops.) Tj
+b'/F1 8.5 Tf' 40 473.0 Td () Tj
+b'/F1 8.5 Tf' 40 459.5 Td (Dual-Mode Operation:) Tj
+b'/F1 8.5 Tf' 40 446.0 Td (To prevent rogue user applications from crashing the machine, hardware provides a Mod) Tj
+b'/F1 8.5 Tf' 40 432.5 Td (    e Bit:) Tj
+b'/F1 8.5 Tf' 40 419.0 Td (- Mode Bit = 1: User Mode \(restricted CPU instruction set; cannot access raw memory o) Tj
+b'/F1 8.5 Tf' 40 405.5 Td (    r I/O\).) Tj
+b'/F1 8.5 Tf' 40 392.0 Td (- Mode Bit = 0: Kernel Mode / Privileged Mode \(full CPU instruction set allowed\).) Tj
+b'/F1 8.5 Tf' 40 378.5 Td (Transition: When a user app requests a service via System Call \(e.g. read\(\), fork\(\)\),) Tj
+b'/F1 8.5 Tf' 40 365.0 Td (     hardware raises a software interrupt \(trap\), switching mode bit from 1 to 0. OS ) Tj
+b'/F1 8.5 Tf' 40 351.5 Td (    executes the system call in kernel mode, resets mode bit to 1, and returns contro) Tj
+b'/F1 8.5 Tf' 40 338.0 Td (    l to the user app.) Tj
+b'/F1 8.5 Tf' 40 324.5 Td () Tj
+b'/F2 9.5 Tf' 40 311.0 Td (--------------------------------------------------------------------------------) Tj
+b'/F2 9.5 Tf' 40 297.5 Td (Q.1 \(b\) Explain Process State Diagram and Process Control Block \(PCB\) structure. [10 ) Tj
+b'/F1 8.5 Tf' 40 284.0 Td (    Marks]) Tj
+b'/F1 8.5 Tf' 40 270.5 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 257.0 Td (Process States:) Tj
+b'/F1 8.5 Tf' 40 243.5 Td (1. New: Process is being created.) Tj
+b'/F1 8.5 Tf' 40 230.0 Td (2. Ready: Process is in main memory waiting to be assigned to CPU by scheduler.) Tj
+b'/F1 8.5 Tf' 40 216.5 Td (3. Running: Instructions are being executed on the CPU core.) Tj
+b'/F1 8.5 Tf' 40 203.0 Td (4. Waiting / Blocked: Process waiting for I/O event or signal completion.) Tj
+b'/F1 8.5 Tf' 40 189.5 Td (5. Terminated: Process finished execution and OS reclaims its resources.) Tj
+b'/F1 8.5 Tf' 40 176.0 Td () Tj
+b'/F1 8.5 Tf' 40 162.5 Td (Process Control Block \(PCB\) Fields:) Tj
+b'/F1 8.5 Tf' 40 149.0 Td (- Process ID \(PID\)) Tj
+b'/F1 8.5 Tf' 40 135.5 Td (- Process State \(Ready, Running, Waiting\)) Tj
+b'/F1 8.5 Tf' 40 122.0 Td (- Program Counter \(PC\): Address of next instruction to execute) Tj
+b'/F1 8.5 Tf' 40 108.5 Td (- CPU Registers: Accumulator, index registers, stack pointer) Tj
+b'/F1 8.5 Tf' 40 95.0 Td (- CPU Scheduling Info: Priority, quantum timer) Tj
+b'/F1 8.5 Tf' 40 81.5 Td (- Memory Management Info: Page tables, base/limit registers) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >> >> >> >> >>
+endobj
+6 0 obj
+<< /Length 3660 >>
+stream
+BT
+/F2 10 Tf 40 800 Td (VTU MCA 22MCA12 - Operating System Concepts & UNIX  --  Page 2 of 3) Tj
+/F1 9 Tf 40 786 Td (===========================================================================) Tj
+b'/F1 8.5 Tf' 40 770 Td (- I/O Status Info: List of allocated devices and open files) Tj
+b'/F1 8.5 Tf' 40 756.5 Td () Tj
+b'/F1 8.5 Tf' 40 743.0 Td (================================================================================) Tj
+b'/F2 9.5 Tf' 40 729.5 Td (MODULE 2: CPU SCHEDULING & PROCESS SYNCHRONIZATION) Tj
+b'/F1 8.5 Tf' 40 716.0 Td (================================================================================) Tj
+b'/F1 8.5 Tf' 40 702.5 Td () Tj
+b'/F2 9.5 Tf' 40 689.0 Td (Q.3 \(a\) Calculate Average Waiting Time and Turnaround Time for the following processe) Tj
+b'/F1 8.5 Tf' 40 675.5 Td (    s using:) Tj
+b'/F1 8.5 Tf' 40 662.0 Td (\(i\) FCFS \(ii\) SJF \(Non-preemptive\) \(iii\) Round Robin \(Quantum = 2ms\)) Tj
+b'/F1 8.5 Tf' 40 648.5 Td (Process | Burst Time \(ms\)) Tj
+b'/F1 8.5 Tf' 40 635.0 Td (P1      | 6) Tj
+b'/F1 8.5 Tf' 40 621.5 Td (P2      | 8) Tj
+b'/F1 8.5 Tf' 40 608.0 Td (P3      | 7) Tj
+b'/F1 8.5 Tf' 40 594.5 Td (P4      | 3) Tj
+b'/F1 8.5 Tf' 40 581.0 Td (Arrival Times: All arrive at t = 0. [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 567.5 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 554.0 Td (\(i\) First-Come First-Served \(FCFS\):) Tj
+b'/F1 8.5 Tf' 40 540.5 Td (Gantt Chart: | P1 \(0-6\) | P2 \(6-14\) | P3 \(14-21\) | P4 \(21-24\) |) Tj
+b'/F1 8.5 Tf' 40 527.0 Td (Waiting Times:) Tj
+b'/F1 8.5 Tf' 40 513.5 Td (P1 = 0 ms) Tj
+b'/F1 8.5 Tf' 40 500.0 Td (P2 = 6 ms) Tj
+b'/F1 8.5 Tf' 40 486.5 Td (P3 = 14 ms) Tj
+b'/F1 8.5 Tf' 40 473.0 Td (P4 = 21 ms) Tj
+b'/F1 8.5 Tf' 40 459.5 Td (Average Waiting Time = \(0 + 6 + 14 + 21\) / 4 = 41 / 4 = 10.25 ms.) Tj
+b'/F1 8.5 Tf' 40 446.0 Td (Turnaround Times \(TAT = WT + Burst\):) Tj
+b'/F1 8.5 Tf' 40 432.5 Td (P1 = 6 ms, P2 = 14 ms, P3 = 21 ms, P4 = 24 ms.) Tj
+b'/F1 8.5 Tf' 40 419.0 Td (Average Turnaround Time = \(6 + 14 + 21 + 24\) / 4 = 65 / 4 = 16.25 ms.) Tj
+b'/F1 8.5 Tf' 40 405.5 Td () Tj
+b'/F1 8.5 Tf' 40 392.0 Td (\(ii\) Shortest Job First \(SJF Non-preemptive\):) Tj
+b'/F1 8.5 Tf' 40 378.5 Td (Order of execution by burst time: P4\(3\), P1\(6\), P3\(7\), P2\(8\).) Tj
+b'/F1 8.5 Tf' 40 365.0 Td (Gantt Chart: | P4 \(0-3\) | P1 \(3-9\) | P3 \(9-16\) | P2 \(16-24\) |) Tj
+b'/F1 8.5 Tf' 40 351.5 Td (Waiting Times:) Tj
+b'/F1 8.5 Tf' 40 338.0 Td (P4 = 0 ms) Tj
+b'/F1 8.5 Tf' 40 324.5 Td (P1 = 3 ms) Tj
+b'/F1 8.5 Tf' 40 311.0 Td (P3 = 9 ms) Tj
+b'/F1 8.5 Tf' 40 297.5 Td (P2 = 16 ms) Tj
+b'/F1 8.5 Tf' 40 284.0 Td (Average Waiting Time = \(0 + 3 + 9 + 16\) / 4 = 28 / 4 = 7.00 ms.) Tj
+b'/F1 8.5 Tf' 40 270.5 Td (Turnaround Times:) Tj
+b'/F1 8.5 Tf' 40 257.0 Td (P4 = 3, P1 = 9, P3 = 16, P2 = 24.) Tj
+b'/F1 8.5 Tf' 40 243.5 Td (Average Turnaround Time = \(3 + 9 + 16 + 24\) / 4 = 52 / 4 = 13.00 ms.) Tj
+b'/F1 8.5 Tf' 40 230.0 Td () Tj
+b'/F1 8.5 Tf' 40 216.5 Td (\(iii\) Round Robin \(Quantum = 2 ms\):) Tj
+b'/F1 8.5 Tf' 40 203.0 Td (Ready Queue Order: P1, P2, P3, P4) Tj
+b'/F1 8.5 Tf' 40 189.5 Td (Execution intervals:) Tj
+b'/F1 8.5 Tf' 40 176.0 Td (P1 \(0-2\), P2 \(2-4\), P3 \(4-6\), P4 \(6-8\),) Tj
+b'/F1 8.5 Tf' 40 162.5 Td (P1 \(8-10\), P2 \(10-12\), P3 \(12-14\), P4 \(14-15 -> finishes\),) Tj
+b'/F1 8.5 Tf' 40 149.0 Td (P1 \(15-17 -> finishes\), P2 \(17-19\), P3 \(19-21\),) Tj
+b'/F1 8.5 Tf' 40 135.5 Td (P2 \(21-23\), P3 \(23-24 -> finishes\), P2 \(24-25 -> finishes\).) Tj
+b'/F1 8.5 Tf' 40 122.0 Td () Tj
+b'/F1 8.5 Tf' 40 108.5 Td (Completion Times: P4 = 15, P1 = 17, P3 = 24, P2 = 25.) Tj
+b'/F1 8.5 Tf' 40 95.0 Td (Waiting Times \(TAT - Burst\):) Tj
+b'/F1 8.5 Tf' 40 81.5 Td (P1 = 17 - 6 = 11 ms) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >> >> >> >> >>
+endobj
+8 0 obj
+<< /Length 2370 >>
+stream
+BT
+/F2 10 Tf 40 800 Td (VTU MCA 22MCA12 - Operating System Concepts & UNIX  --  Page 3 of 3) Tj
+/F1 9 Tf 40 786 Td (===========================================================================) Tj
+b'/F1 8.5 Tf' 40 770 Td (P2 = 25 - 8 = 17 ms) Tj
+b'/F1 8.5 Tf' 40 756.5 Td (P3 = 24 - 7 = 17 ms) Tj
+b'/F1 8.5 Tf' 40 743.0 Td (P4 = 15 - 3 = 12 ms) Tj
+b'/F1 8.5 Tf' 40 729.5 Td (Average Waiting Time = \(11 + 17 + 17 + 12\) / 4 = 57 / 4 = 14.25 ms.) Tj
+b'/F1 8.5 Tf' 40 716.0 Td () Tj
+b'/F1 8.5 Tf' 40 702.5 Td (================================================================================) Tj
+b'/F2 9.5 Tf' 40 689.0 Td (MODULE 3: DEADLOCKS & MEMORY MANAGEMENT) Tj
+b'/F1 8.5 Tf' 40 675.5 Td (================================================================================) Tj
+b'/F1 8.5 Tf' 40 662.0 Td () Tj
+b'/F2 9.5 Tf' 40 648.5 Td (Q.5 \(a\) State the Four Necessary Conditions for Deadlock. Explain Banker's Algorithm ) Tj
+b'/F1 8.5 Tf' 40 635.0 Td (    with a safety check example. [10 Marks]) Tj
+b'/F1 8.5 Tf' 40 621.5 Td (Answer:) Tj
+b'/F1 8.5 Tf' 40 608.0 Td (Four Necessary Conditions \(Coffman Conditions\):) Tj
+b'/F1 8.5 Tf' 40 594.5 Td (1. Mutual Exclusion: At least one resource must be held in a non-shareable mode.) Tj
+b'/F1 8.5 Tf' 40 581.0 Td (2. Hold and Wait: A process holds at least one resource and waits for additional reso) Tj
+b'/F1 8.5 Tf' 40 567.5 Td (    urces held by others.) Tj
+b'/F1 8.5 Tf' 40 554.0 Td (3. No Preemption: Resources cannot be forcibly confiscated from a process; only relea) Tj
+b'/F1 8.5 Tf' 40 540.5 Td (    sed voluntarily.) Tj
+b'/F1 8.5 Tf' 40 527.0 Td (4. Circular Wait: A closed chain of processes P0, P1, ..., Pn exists such that P0 wai) Tj
+b'/F1 8.5 Tf' 40 513.5 Td (    ts for P1, and Pn waits for P0.) Tj
+b'/F1 8.5 Tf' 40 500.0 Td () Tj
+b'/F1 8.5 Tf' 40 486.5 Td (Banker's Algorithm:) Tj
+b'/F1 8.5 Tf' 40 473.0 Td (Given 3 resource types: A\(10\), B\(5\), C\(7\).) Tj
+b'/F1 8.5 Tf' 40 459.5 Td (Available Vector: Available = Total - sum\(Allocation\).) Tj
+b'/F1 8.5 Tf' 40 446.0 Td (Need Matrix = Max - Allocation.) Tj
+b'/F1 8.5 Tf' 40 432.5 Td (A process Pi can be executed if Need_i <= Available. Once executed, Available = Avail) Tj
+b'/F1 8.5 Tf' 40 419.0 Td (    able + Allocation_i.) Tj
+b'/F1 8.5 Tf' 40 405.5 Td (If all processes complete, the system is in a SAFE STATE.) Tj
+b'/F1 8.5 Tf' 40 392.0 Td () Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000129 00000 n 
+0000000373 00000 n 
+0000004747 00000 n 
+0000004991 00000 n 
+0000008703 00000 n 
+0000008947 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+11369
+%%EOF
