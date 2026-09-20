@@ -14,7 +14,7 @@
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                   THE 6-TRACK MASTER KNOWLEDGE MAP                                     │
 ├──────────────────────────────────┬─────────────────────────────────────────────────────────────────────┤
-│ 📖 1. SEMESTER 1 MASTER NOTES     │ Complete Notes, Formulas, Code, Numericals & YouTube Study Links    │
+│ 📖 1. SEMESTER 1-4 MASTER NOTES  │ Complete Notes, Formulas, Code, Numericals & YouTube Study Links    │
 │ 📂 2. VTU MCA STUDY VAULTS        │ 17 Official Solved Exam Papers, Syllabi, Regulations & Textbooks   │
 │ 🚀 3. DEVSECOPS CAREER ENGINE     │ Your 24-Month Roadmap, Daily 5-Hr Routine, Non-Math Logic & Skills  │
 │ 🎓 4. BKIT BHALKI & VTU DEGREE    │ 4-Semester Syllabus, Subject Schemes, SWOT Strategy & Scoring Rules │
@@ -24,8 +24,10 @@
 ```
 
 ### ⚡ Quick Jumps:
-- 📖 **[Semester 1 Master Notes](Semester_1_Master_Notes/README.md)** *(Full notes for Maths, OS, DSA, Networks, DAA)*
-- 🎬 **[Semester 1 YouTube Study Links](Semester_1_Master_Notes/Semester_1_YouTube_Study_Links.md)** *(Direct YouTube playlists)*
+- 📖 **[Semester 1 Master Notes](Semester_1_Master_Notes/README.md)** & **[▶️ YouTube Links](Semester_1_Master_Notes/Semester_1_YouTube_Study_Links.md)**
+- 📖 **[Semester 2 Master Notes](Semester_2_Master_Notes/README.md)** & **[▶️ YouTube Links](Semester_2_Master_Notes/Semester_2_YouTube_Study_Links.md)**
+- 📖 **[Semester 3 Master Notes](Semester_3_Master_Notes/README.md)** & **[▶️ YouTube Links](Semester_3_Master_Notes/Semester_3_YouTube_Study_Links.md)**
+- 📖 **[Semester 4 Master Notes](Semester_4_Master_Notes/README.md)** & **[▶️ YouTube Links](Semester_4_Master_Notes/Semester_4_YouTube_Study_Links.md)**
 - 📂 **[VTU MCA Exam Vault](VTU_MCA_Exam_Vault/README.md)** *(17 Solved Exam Papers with 100-Mark Solutions)*
 - 📋 **[VTU MCA Official Syllabus Archive](VTU_MCA_Syllabus/VTU_Official_PG_Scheme_Syllabus_Index.md)**
 - 📊 **[Student Progress & Weakness Tracker](00-Student-Progress/Student_Progress_and_Weakness_Tracker.md)**
@@ -47,25 +49,49 @@ Everything is organized, verified, and cross-referenced into dedicated directori
 * ⚡ **[22MCA15: Design & Analysis of Algorithms Complete Notes](Semester_1_Master_Notes/05_Design_Analysis_Algorithms_22MCA15_Complete_Notes.md)**
 * 🎬 **[Semester 1 YouTube Study Playlists & Channels](Semester_1_Master_Notes/Semester_1_YouTube_Study_Links.md)**
 
-### 2. 📂 [VTU MCA Exam Vault (`VTU_MCA_Exam_Vault/`)](VTU_MCA_Exam_Vault/README.md)
+### 2. 📂 [Semester 2 Master Notes (`Semester_2_Master_Notes/`)](Semester_2_Master_Notes/README.md)
+* 🗄️ **[22MCA21: Database Management Systems Complete Notes](Semester_2_Master_Notes/01_DBMS_22MCA21_Complete_Notes.md)**
+* ☕ **[22MCA22: Object Oriented Java Programming Complete Notes](Semester_2_Master_Notes/02_Java_Programming_22MCA22_Complete_Notes.md)**
+* 🔄 **[22MCA23: Software Engineering & Agile Methodology Complete Notes](Semester_2_Master_Notes/03_Software_Engineering_Agile_22MCA23_Complete_Notes.md)**
+* 🌐 **[22MCA24: Web Technologies & Full-Stack Complete Notes](Semester_2_Master_Notes/04_Web_Technologies_22MCA24_Complete_Notes.md)**
+* ☁️ **[22MCA25: Cloud Computing & DevOps Architecture Complete Notes](Semester_2_Master_Notes/05_Cloud_Computing_DevOps_22MCA25_Complete_Notes.md)**
+* 🎬 **[Semester 2 YouTube Study Playlists & Channels](Semester_2_Master_Notes/Semester_2_YouTube_Study_Links.md)**
+
+### 3. 📂 [Semester 3 Master Notes (`Semester_3_Master_Notes/`)](Semester_3_Master_Notes/README.md)
+* 🤖 **[22MCA31: Machine Learning using Python Complete Notes](Semester_3_Master_Notes/01_Machine_Learning_Python_22MCA31_Complete_Notes.md)**
+* 📡 **[22MCA32: Internet of Things & Cloud Applications Complete Notes](Semester_3_Master_Notes/02_Internet_of_Things_Cloud_22MCA32_Complete_Notes.md)**
+* 🛡️ **[22MCA33: Cyber Security & DevSecOps Complete Notes](Semester_3_Master_Notes/03_Cyber_Security_DevSecOps_22MCA33_Complete_Notes.md)**
+* 📊 **[22MCA34: Big Data Analytics & Distributed Systems Complete Notes](Semester_3_Master_Notes/04_Big_Data_Analytics_22MCA34_Complete_Notes.md)**
+* ⛓️ **[22MCA331: Blockchain Technology & Smart Contracts Complete Notes](Semester_3_Master_Notes/05_Blockchain_Technology_22MCA331_Complete_Notes.md)**
+* 🎬 **[Semester 3 YouTube Study Playlists & Channels](Semester_3_Master_Notes/Semester_3_YouTube_Study_Links.md)**
+
+### 4. 📂 [Semester 4 Master Notes (`Semester_4_Master_Notes/`)](Semester_4_Master_Notes/README.md)
+* 🎓 **[22MCA41: Major Project Dissertation & Viva-Voce Defense Guide](Semester_4_Master_Notes/01_Major_Project_Dissertation_Viva_22MCA41_Guide.md)**
+* 🎮 **[22MCA423: Fundamentals of Game Design & Graphics Complete Notes](Semester_4_Master_Notes/02_Game_Design_Graphics_22MCA423_Complete_Notes.md)**
+* 🧠 **[22MCA411: Deep Learning & Neural Networks Complete Notes](Semester_4_Master_Notes/03_Deep_Learning_Neural_Networks_22MCA411_Complete_Notes.md)**
+* 📝 **[22MCA43: Technical Seminar & IEEE Research Paper Guide](Semester_4_Master_Notes/04_Technical_Seminar_Research_Paper_22MCA43_Guide.md)**
+* 💼 **[Career Launchpad: Industry Internship & Placement Prep Manual](Semester_4_Master_Notes/05_Industry_Internship_Career_Preparation_Guide.md)**
+* 🎬 **[Semester 4 YouTube Study Playlists & Channels](Semester_4_Master_Notes/Semester_4_YouTube_Study_Links.md)**
+
+### 5. 📂 [VTU MCA Exam Vault (`VTU_MCA_Exam_Vault/`)](VTU_MCA_Exam_Vault/README.md)
 Houses **17 official exam question papers, institutional professor-solved papers, and full 100-mark step-by-step solved PDFs**:
 * **Semester 1:** Mathematical Foundations (`22MCA11`), Operating Systems (`22MCA12`), Data Structures (`22MCA13`), Computer Networks (`22MCA14`), DAA (`22MCA15`).
 * **Semester 2:** DBMS (`22MCA21`), Java OOP (`22MCA22`), Software Engineering & Agile (`22MCA23`), Web Technologies (`22MCA24`), Cloud Computing (`22MCA25`).
 * **Semester 3:** Data Analytics & ML (`22MCA31`), IoT & Cloud (`22MCA32`), Cybersecurity & DevSecOps (`22MCA33`), Big Data Analytics (`22MCA34`).
 * **Semester 4:** Major Project & Viva-Voce Master Guide (`22MCA41`), Big Data (`22MCA412`), Game Design (`22MCA423`).
 
-### 3. 📂 [VTU MCA Official Syllabus Archive (`VTU_MCA_Syllabus/`)](VTU_MCA_Syllabus/README.md)
+### 6. 📂 [VTU MCA Official Syllabus Archive (`VTU_MCA_Syllabus/`)](VTU_MCA_Syllabus/README.md)
 * 📋 **[Master PG Scheme Syllabus Index](VTU_MCA_Syllabus/VTU_Official_PG_Scheme_Syllabus_Index.md)**
 * 📄 **VTU MCA 1st to 4th Sem Complete Scheme 2024** (80 Credits NEP/NCrF)
 * 📄 **VTU MCA 1st & 2nd Sem Syllabus 2022 Scheme** (100 Credits CBCS)
 * 📂 **Semester 3 Professional Electives (8 Syllabi)** — GenAI, Ethical Hacking, Full-Stack Web, Networks, IoT, Cloud.
 
-### 4. 📂 [VTU MCA Regulations Archive (`VTU_MCA_Regulations/`)](VTU_MCA_Regulations/README.md)
+### 7. 📂 [VTU MCA Regulations Archive (`VTU_MCA_Regulations/`)](VTU_MCA_Regulations/README.md)
 * 📄 **VTU Official Examination Manual 2024 PDF**
 * 📄 **2024–2025 Regulations PDF (80-Credit Scheme)**
 * 📄 **2022 Scheme Regulations PDF (100-Credit Scheme)**
 
-### 5. 📂 [VTU MCA Job-Ready Master Vault (`VTU_MCA_Job_Ready_Vault/`)](VTU_MCA_Job_Ready_Vault/README.md)
+### 8. 📂 [VTU MCA Job-Ready Master Vault (`VTU_MCA_Job_Ready_Vault/`)](VTU_MCA_Job_Ready_Vault/README.md)
 * 💻 **01. DSA & Coding Interviews**: 14 Coding Patterns, Blind 75 Tracker, Complexity Cheat Sheet.
 * 🌐 **02. Full-Stack & System Design**: Modern Architecture Notes, System Design Playbook, Enterprise SaaS Capstone.
 * ☁️ **03. Cloud & DevOps Engineering**: Linux Toolchain, GitHub Actions CI/CD Blueprints, GitOps EKS Capstone.
